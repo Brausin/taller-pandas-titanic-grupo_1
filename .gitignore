@@ -1,0 +1,55 @@
+# =======================
+# PROYECTO TITANIC (Pandas)
+# =======================
+
+# --- DATA (no subir CSV originales) ---
+data/*
+!data/README.md
+!data/**/.gitkeep
+
+# --- OUTPUTS (sí subimos tablas y gráficos) ---
+# (Si generas archivos pesados adicionales, añádelos aquí)
+# outputs/**/*.parquet
+# outputs/**/*.html
+
+# --- JUPYTER ---
+**/.ipynb_checkpoints/
+*.ipynb_convert
+*.nbconvert.ipynb
+
+# --- PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# --- ENTORNOS / DEPENDENCIAS ---
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+.poetry/
+.poetry-cache/
+
+# --- CONFIG LOCAL ---
+*.env
+.env.*
+*.local
+
+# --- IDE / EDITOR ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- SO / SISTEMA ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- VARIOS ---
+*.tmp
+*.temp
+~$*
