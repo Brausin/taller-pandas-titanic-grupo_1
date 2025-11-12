@@ -116,7 +116,7 @@ jupyter notebook
 
 📚 **Facultad de Ciencia de Datos**  
 🎓 *Programa:* Ciencia de Datos  
-📆 *Periodo académico:* 2025-I  
+📆 *Periodo académico:* 2025- 2 
 📘 *Proyecto académico:* Taller Pandas — Titanic Dataset  
 👥 *Grupo:* 1 (Juan Vargas & Santiago Parra)  
 
