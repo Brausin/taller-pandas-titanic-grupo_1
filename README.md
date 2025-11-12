@@ -121,3 +121,7 @@ jupyter notebook
 👥 *Grupo:* 1 (Juan Vargas & Santiago Parra)  
 
 ---
+
+## 💡 Decoracion por Chat Gpt
+
+---
