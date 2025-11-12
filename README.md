@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Python-3.11%2B-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
   <img src="https://img.shields.io/badge/Librería-Pandas-lightgrey?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 ---
@@ -98,9 +97,9 @@ jupyter notebook
 | Componente | Descripción | Estado |
 |-------------|--------------|---------|
 | 📂 Estructura base del proyecto | Carpetas, rutas y archivos iniciales | ✅ Completo |
-| 📊 Carga y revisión de datos | Notebook inicial en desarrollo | 🚧 En progreso |
-| 📈 Análisis estadístico y métricas | Notebook de métricas y revisión | 🕓 Pendiente |
-| 🧾 Documentación y reportes | Archivos en `/docs` y `/outputs` | 🕓 Pendiente |
+| 📊 Carga y revisión de datos | Notebook inicial en desarrollo | ✅ Completo |
+| 📈 Análisis estadístico y métricas | Notebook de métricas y revisión | ✅ Completo |
+| 🧾 Documentación y reportes | Archivos en `/docs` y `/outputs` | ✅ Completo |
 
 ---
 
@@ -109,7 +108,7 @@ jupyter notebook
 | Integrante | Rol | Alias / Firma |
 |-------------|------|---------------|
 | 🧑‍💻 **Juan Vargas** | Desarrollo, documentación y estructura del proyecto | 🌀 *Brausin* |
-| 👨‍💻 **Santiago Parra** | Lógica, análisis estadístico y revisión conceptual | 🧩 *Mongol* |
+| 👨‍💻 **Santiago Parra** | Lógica, análisis estadístico y revisión conceptual | 🧩 *Parra* |
 
 ---
 
@@ -117,8 +116,12 @@ jupyter notebook
 
 📚 **Facultad de Ciencia de Datos**  
 🎓 *Programa:* Ciencia de Datos  
-📆 *Periodo académico:* 2025-I  
+📆 *Periodo académico:* 2025- 2 
 📘 *Proyecto académico:* Taller Pandas — Titanic Dataset  
 👥 *Grupo:* 1 (Juan Vargas & Santiago Parra)  
+
+---
+
+## 💡 Decoracion por Chat Gpt
 
 ---
